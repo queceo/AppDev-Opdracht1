@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
                 displ.setText(str + "2");
                 break;
             case R.id.three:
-                displ.setText(str + "3"); 
+                displ.setText(str + "3");
                 break;
             case R.id.four:
                 displ.setText(str + "4");
